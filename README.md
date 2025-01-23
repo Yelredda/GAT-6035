@@ -1,1 +1,1 @@
-"Python code during Information Security course" 
+"Python code created during Introduction to Information Security course for various objectives" 
